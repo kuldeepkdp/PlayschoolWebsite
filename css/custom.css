@@ -1,17 +1,18 @@
 .colourA{
-    color: #009999;
+    /* color: #009999; */
+    color: #20c1e0; 
 }
 
 .bgcolourA{
-    background-color: #009999;
+    background-color: #20c1e0;
 }
 
 .colourB{
-    color: #f2a900;
+    color: #fc4f4f;
 }
 
 .bgcolourB{
-    background-color: #f2a900;
+    background-color: #fc4f4f;
 }
 
 .colourC{
